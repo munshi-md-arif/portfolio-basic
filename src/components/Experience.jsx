@@ -4,10 +4,10 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
+// ``import nextjs from "../assets/nextjs.png";``
 
-import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+// import github from "../assets/github.png";
+// import tailwind from "../assets/tailwind.png";
 import mongodb from "../assets/mongodb.webp";
 import node from "../assets/node.png";
 import express from "../assets/express.webp";
@@ -45,12 +45,12 @@ const Experience = () => {
       title: "mongoDB",
       style: "shadow-green-400",
     },
-    {
-      id: 8,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
-    },
+    // {
+    //   id: 8,
+    //   src: github,
+    //   title: "GitHub",
+    //   style: "shadow-gray-400",
+    // },
     {
       id: 11,
       src: node,
@@ -69,18 +69,18 @@ const Experience = () => {
       title: "Flutter",
       style: "shadow-blue-400",
     },
-    {
-      id: 6,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
-    },
-    {
-      id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
+    // {
+    //   id: 6,
+    //   src: nextjs,
+    //   title: "Next JS",
+    //   style: "shadow-white",
+    // },
+    // {
+    //   id: 5,
+    //   src: tailwind,
+    //   title: "Tailwind",
+    //   style: "shadow-sky-400",
+    // },
   ];
 
   return (
