@@ -27,7 +27,7 @@ const Portfolio = () => {
     // const url = `${window.location.origin}/NotFound.js`;
 
     // window.open(url, '_blank');
-    window.open('https://github.com/munshi-md-arif', '_blank');
+    window.open('https://github.com/munshi-md-arif/t-shirt-Customization', '_blank');
     // window.location.href = 'https://github.com/machadop1407/react-hooks-course/blob/master/src/UseEffect/EffectTutorial.js';
     console.log('clicked');
   };
