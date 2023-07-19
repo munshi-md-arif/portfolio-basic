@@ -1,4 +1,4 @@
-# About
+# About:
 
 I am a MERN stack developer with a strong focus on backend development using Node.js. Currently working as a Junior Software Developer at Kestone Global, I am known for my strong sense of responsibility and punctuality in delivering high-quality software solutions.
 
