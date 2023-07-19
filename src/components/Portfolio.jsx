@@ -22,6 +22,10 @@ const Portfolio = () => {
   ];
   // const history = useHistory();
 
+  const demoHandleClick =()=>{
+    alert('Currently, the Demo feature has been disabled by Md Arif ☹️');
+  }
+
   const handleClick = () => {
     
     // const url = `${window.location.origin}/NotFound.js`;
@@ -54,7 +58,7 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" onClick={demoHandleClick}>
                   Demo
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" onClick={handleClick}>
